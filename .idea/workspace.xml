@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ce161a7-1307-4a64-8cec-7b4d0b25b578" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aTvAo7ZApCD22U8IWekimedrzv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ce161a7-1307-4a64-8cec-7b4d0b25b578" name="Default Changelist" comment="" />
+      <created>1586772256198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586772256198</updated>
+      <workItem from="1586772257380" duration="76000" />
+      <workItem from="1586772502383" duration="942000" />
+      <workItem from="1586773833376" duration="797000" />
+      <workItem from="1587012372980" duration="4073000" />
+      <workItem from="1587095632172" duration="34791000" />
+      <workItem from="1587145590167" duration="545000" />
+      <workItem from="1587146226930" duration="167000" />
+      <workItem from="1587189643213" duration="15594000" />
+      <workItem from="1587224433699" duration="10774000" />
+      <workItem from="1587236245523" duration="117000" />
+      <workItem from="1587265555369" duration="12447000" />
+      <workItem from="1587280137699" duration="94000" />
+      <workItem from="1587280420125" duration="685000" />
+      <workItem from="1587362640007" duration="7661000" />
+      <workItem from="1587370927786" duration="10465000" />
+      <workItem from="1587381434278" duration="2363000" />
+      <workItem from="1587391818815" duration="648000" />
+      <workItem from="1587536759251" duration="16171000" />
+      <workItem from="1587573261843" duration="28000" />
+      <workItem from="1587573397184" duration="1586000" />
+      <workItem from="1588000561486" duration="137000" />
+      <workItem from="1588254331708" duration="18000" />
+      <workItem from="1588257092027" duration="2955000" />
+      <workItem from="1590388591600" duration="12000" />
+      <workItem from="1590388742282" duration="24000" />
+      <workItem from="1590389373860" duration="86000" />
+      <workItem from="1590390195409" duration="239000" />
+      <workItem from="1590861429776" duration="14000" />
+      <workItem from="1590864208746" duration="7000" />
+      <workItem from="1595617961795" duration="369000" />
+      <workItem from="1599832239536" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1599832238971">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="726" y="380" key="com.intellij.ide.util.TipDialog/0.0.2048.1112/-1920.159.1920.1040@0.0.2048.1112" timestamp="1599832238971" />
+  </component>
+</project>
